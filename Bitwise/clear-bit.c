@@ -1,6 +1,5 @@
 /***************************************************************************************/ 
-/* DESCRIPTION :This  program  will  implement a macro to clear a particular bit       */							
-/* of a number. 								       */
+/* DESCRIPTION :This  program  will  implement a macro to clear a particular bit       */						o/*                 of a number. 						           */
 /* AUTHOR : SUBHRA PRAKASH GIRI                                                        */ 
 /* DATE   : 02­Nov­2012								       */ 
 /* VERSION: 1.0 								       */ 
